@@ -1,0 +1,23 @@
+site_name: Python面试集合
+theme:
+  name: material
+  features:
+    - navigation.tabs
+  palette:
+    primary: teal
+
+extra_javascript:
+  - styles/js/tablesort.min.js
+  - styles/js/tex-mml-chtml.js
+
+plugins:
+  - search
+
+extra_css:
+  - styles/css/extra.css
+  - styles/css/custom-toc.css
+
+nav:
+    - 人工智能: index.md
+    - Web 开发: web.md
+    - 云原生: cloud.md 
