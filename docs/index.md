@@ -14,7 +14,7 @@
 
 [![SKlearn](imgs/Scikit_learn_logo_small.svg)](https://blog.csdn.net/2301_79262050/article/details/139127464?fromshare=blogdetail&sharetype=blogdetail&sharerId=139127464&sharerefer=PC&sharesource=weixin_41370128&sharefrom=from_link)
 
-
+[![sklearn算法](imgs/ml.png)](https://blog.csdn.net/qq_39763246/article/details/119615696?fromshare=blogdetail&sharetype=blogdetail&sharerId=119615696&sharerefer=PC&sharesource=weixin_41370128&sharefrom=from_link)
 
 
 [![Pytorch](imgs/PyTorch_logo.svg)](https://blog.csdn.net/feichangyanse/article/details/129044859?fromshare=blogdetail&sharetype=blogdetail&sharerId=129044859&sharerefer=PC&sharesource=weixin_41370128&sharefrom=from_link)
