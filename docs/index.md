@@ -16,6 +16,9 @@
 
 [![sklearn算法](imgs/ml.png)](https://blog.csdn.net/qq_39763246/article/details/119615696?fromshare=blogdetail&sharetype=blogdetail&sharerId=119615696&sharerefer=PC&sharesource=weixin_41370128&sharefrom=from_link)
 
+[机器学习详解](https://blog.csdn.net/weixin_56368033/category_11795896.html)
+
+
 
 [![Pytorch](imgs/PyTorch_logo.svg)](https://blog.csdn.net/feichangyanse/article/details/129044859?fromshare=blogdetail&sharetype=blogdetail&sharerId=129044859&sharerefer=PC&sharesource=weixin_41370128&sharefrom=from_link)
 
